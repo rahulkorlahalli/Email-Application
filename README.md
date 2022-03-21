@@ -20,6 +20,6 @@ EmailUtility.java :
 ### Developed By:
 K Rahul : https://github.com/rahulkorlahalli  
 Akhilesh Sanikop :  https://github.com/akhileshhh-14x  
-Sanyukta Gundapi:  
+Sanyukta Gundapi:  https://github.com/sanyukta-09
 Pranav Dandagi:  
 
